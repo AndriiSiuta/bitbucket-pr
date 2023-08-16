@@ -1,0 +1,11 @@
+{
+  "name": "bitbucket-pr",
+  "version": "1.0.0",
+  "dependencies": {
+    "bitbucket": "^2.11.0",
+    "form-data": "^4.0.0",
+    "node-fetch": "^3.3.2",
+    "node-fetch-commonjs": "^3.3.1",
+    "yargs": "^17.7.2"
+  }
+}
